@@ -17,6 +17,8 @@
     "@babel/core": "^7.0.0-beta.38",
     "@babel/preset-react": "^7.0.0-beta.38",
     "babel-loader": "8.0.0-beta.0",
+    "babel-preset-react-app": "^3.1.1",
+    "parcel-bundler": "^1.4.1",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.11.0"
   }
